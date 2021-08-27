@@ -1,7 +1,4 @@
-class Transformations{
-    constructor() {
-        this.la = new LinearAlgebra()
-    }
+class Transformations{    
 //Métodos de transformações lineares
     //Translação
     translate2D(vector, dx, dy){
